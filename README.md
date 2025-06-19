@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋🏽 Hey, I’m Manny
 
-<!--
-**mxnnydev/mxnnydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"I don’t wait for opportunities. I create them. I don’t ask if something is possible—I ask how fast I can make it happen."*
 
-Here are some ideas to get you started:
+I'm a **Computer Science student at CUNY Baruch**, a relentless builder, and a founder-in-the-making. Every repo here is a step toward a bigger vision: building the next wave of **AI-powered SaaS tools** that move fast and break mediocrity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💥 What Drives Me
+
+- 🚨 Obsession with execution speed
+- 🤖 Building with AI, not just for fun — but to **scale fast**
+- 💻 Transforming code into cash-flowing SaaS products
+- 🚀 Inspired by Musk, building like a machine
+
+---
+
+## 🔧 Stack I'm Working With
+
+`Python` | `Java` | `HTML` | `Jupyter Notebooks` | `VSCode` | `Git` | `CLI Tools`
+
+---
+
+## 🧠 Currently Focused On
+
+- 🔨 Shipping MVPs every week
+- ⚙️ Learning FastAPI + PostgreSQL
+- 🌍 Building my SaaS empire — one repo at a time
+
+---
+
+## 📊 GitHub Stats
+
+![Manny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxnnydev&show_icons=true&theme=github_dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnnydev&layout=compact&theme=github_dark&hide_border=true)  
+
+---
+
+## 🔗 Let's Connect
+
+- 📧 [mannymutt123@gmail.com](mailto:mannymutt123@gmail.com)
+- 🌐 [developedbymanny.dev](https://github.com/developedbymanny/)
+- 🖇️ [LinkedIn](https://www.linkedin.com/in/mxnnydev)
+
+> “If you're obsessed with building, scaling, and shipping — we’re on the same team.”
