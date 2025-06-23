@@ -38,7 +38,7 @@ I'm a **Computer Science student at CUNY Baruch**, a relentless builder, and a f
 
 ## 🔗 Let's Connect
 
-- 📧 [mannymutt123@gmail.com](mailto:developedbymanny@gmail.com)
+- 📧 [developedbymanny@gmail.com](mailto:developedbymanny@gmail.com)
 - 🌐 [mxnny.dev](https://mxnny.dev)
 - 🖇️ [LinkedIn](https://www.linkedin.com/in/mxnnydev)
 
