@@ -1,45 +1,69 @@
-# 👋🏽 Hey, I’m Manny
+# 👋🏽 Hey, I’m Manny (Emmanuel Muttavanchery)
 
-> *"I don’t wait for opportunities. I create them. I don’t ask if something is possible—I ask how fast I can make it happen."*
+> *"I don’t wait for opportunities. I build them."*
 
-I'm a **Computer Science student at CUNY Baruch**, a relentless builder, and a founder-in-the-making. Every repo here is a step toward a bigger vision: building the next wave of **AI-powered SaaS tools** that move fast and break mediocrity.
-
----
-
-## 💥 What Drives Me
-
-- 🚨 Obsession with execution speed
-- 🤖 Building with AI, not just for fun — but to **scale fast**
-- 💻 Transforming code into cash-flowing SaaS products
-- 🚀 Inspired by Musk, building like a machine
+I’m a **Computer Science student at CUNY Baruch** and an execution-first builder focused on shipping **AI-powered SaaS** and automation tools.  
+This GitHub is my build log: experiments, MVPs, and systems that turn ideas into real products.
 
 ---
 
-## 🔧 Stack I'm Working With
+## ⚡ What I’m About
 
-`Python` | `Java` | `HTML` | `Jupyter Notebooks` | `VSCode` | `Git` | `CLI Tools`
+- 🚀 **Shipping > planning** (speed + consistency)
+- 🤖 Using AI to **move faster** and build smarter
+- 🧩 Turning code into **real products** (not “tutorial graveyards”)
+- 📈 Long-term: build a portfolio of SaaS tools that compound
 
 ---
 
-## 🧠 Currently Focused On
+## 🧰 Tech I Use
 
-- 🔨 Shipping MVPs every week
-- ⚙️ Learning FastAPI + PostgreSQL
-- 🌍 Building my SaaS empire — one repo at a time
+**Languages:** `Python` • `Java` • `HTML`  
+**Tools:** `Git` • `CLI` • `VS Code` • `Jupyter Notebooks`  
+**Learning/Building:** `FastAPI` • `PostgreSQL`
+
+---
+
+## 🎯 Current Focus
+
+- 🔨 Shipping MVPs + iterating in public
+- ⚙️ FastAPI + PostgreSQL (real backend skills, real projects)
+- 🧠 Building systems + automations that save time / make money
+
+---
+
+## 📌 Featured Work
+
+*(Add your best repos here — even 2–3 is enough. Replace the links.)*
+
+- **Project 1** — one-line value prop  
+  `Tech:` Python, FastAPI, PostgreSQL  
+  👉 https://github.com/mxnnydev/REPO_NAME
+
+- **Project 2** — one-line value prop  
+  `Tech:` Java, MySQL  
+  👉 https://github.com/mxnnydev/REPO_NAME
+
+- **Project 3** — one-line value prop  
+  `Tech:` Python, Automation  
+  👉 https://github.com/mxnnydev/REPO_NAME
 
 ---
 
 ## 📊 GitHub Stats
 
-![Manny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxnnydev&show_icons=true&theme=github_dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnnydev&layout=compact&theme=github_dark&hide_border=true)  
+![Manny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxnnydev&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnnydev&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Connect
 
-- 📧 [developedbymanny@gmail.com](mailto:developedbymanny@gmail.com)
-- 🌐 [mxnny.dev](https://mxnny.dev)
-- 🖇️ [LinkedIn](https://www.linkedin.com/in/mxnnydev)
+- 📧 Email: [developedbymanny@gmail.com](mailto:developedbymanny@gmail.com)
+- 🌐 Site: https://mxnny.dev
+- 🖇️ LinkedIn: https://www.linkedin.com/in/mxnnydev
 
-> “If you're obsessed with building, scaling, and shipping — we’re on the same team.”
+---
+
+### 🤝 Collabs
+If you’re building SaaS, automation, or AI tools and you actually ship — let’s connect.
