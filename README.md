@@ -29,25 +29,7 @@ This GitHub is my build log: experiments, MVPs, and systems that turn ideas into
 - 🔨 Shipping MVPs + iterating in public
 - ⚙️ FastAPI + PostgreSQL (real backend skills, real projects)
 - 🧠 Building systems + automations that save time / make money
-
----
-
-## 📌 Featured Work
-
-*(Add your best repos here — even 2–3 is enough. Replace the links.)*
-
-- **Project 1** — one-line value prop  
-  `Tech:` Python, FastAPI, PostgreSQL  
-  👉 https://github.com/mxnnydev/REPO_NAME
-
-- **Project 2** — one-line value prop  
-  `Tech:` Java, MySQL  
-  👉 https://github.com/mxnnydev/REPO_NAME
-
-- **Project 3** — one-line value prop  
-  `Tech:` Python, Automation  
-  👉 https://github.com/mxnnydev/REPO_NAME
-
+  
 ---
 
 ## 📊 GitHub Stats
