@@ -1,4 +1,4 @@
-# 👋🏽 Hey, I’m Manny (Emmanuel Muttavanchery)
+# 👋🏽 Hey, I’m Manny
 
 > *"I don’t wait for opportunities. I build them."*
 
