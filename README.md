@@ -29,7 +29,7 @@ This GitHub is my build log: experiments, MVPs, and systems that turn ideas into
 - 🔨 Shipping MVPs + iterating in public
 - ⚙️ FastAPI + PostgreSQL (real backend skills, real projects)
 - 🧠 Building systems + automations that save time / make money
-  
+
 ---
 
 ## 📊 GitHub Stats
@@ -48,4 +48,5 @@ This GitHub is my build log: experiments, MVPs, and systems that turn ideas into
 ---
 
 ### 🤝 Collabs
+
 If you’re building SaaS, automation, or AI tools and you actually ship — let’s connect.
